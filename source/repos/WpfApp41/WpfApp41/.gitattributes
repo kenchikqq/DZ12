@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.cs text charset=utf-8
+*.xaml text charset=utf-8
+*.csproj text charset=utf-8
+*.sln text charset=utf-8
+
